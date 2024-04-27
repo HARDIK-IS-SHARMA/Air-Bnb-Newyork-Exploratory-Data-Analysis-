@@ -2,7 +2,7 @@
 
 ## Objective ##
 The primary objective of this exploratory data analysis (EDA) is to delve into the New York Airbnb dataset to uncover detailed insights related to pricing strategies, occupancy trends, and geographic distribution of listings across different neighborhoods. This analysis aims to highlight key factors influencing rental prices and demand, offering stakeholders data-driven insights for optimizing their listings. Additionally, the study seeks to identify seasonal trends and customer preferences, thereby assisting hosts in maximizing their earnings and improving guest experiences in New York's competitive short-term rental market.
-## Library Used ##
+## Python Library Used ##
 
 1. Pandas (For Data Cleansing and Exploratory Data Analysis )
 2. Matplotlib (For Graph visualisation )
